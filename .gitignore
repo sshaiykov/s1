@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.layout
+*.depend
+*.docx
+/bin
+/obj

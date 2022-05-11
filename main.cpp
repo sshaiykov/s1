@@ -2,7 +2,7 @@
 
 //Шайыков, Сатымбаев КЭ-418, 2022
 #include <iostream>
-
+#include <stlib>
 using namespace std;
 
 int main()
